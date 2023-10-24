@@ -2,3 +2,7 @@
     background: #ffc107;
     color:#fff;
 }
+
+.navbar li a {
+    font-weight: bold;
+}
