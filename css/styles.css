@@ -3,6 +3,22 @@
     color:#fff;
 }
 
+.box{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
 .navbar li a {
     font-weight: bold;
+}
+
+footer span a{
+    color: #fff;
+    padding: 5px 15px;
+    font-weight: bold;    
+}
+
+span a:hover{
+    text-decoration: none !important;
+    color: #ffc107 !important;
 }
